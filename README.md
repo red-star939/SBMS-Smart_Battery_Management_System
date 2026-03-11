@@ -4,19 +4,17 @@ Reinforcement-learning-based smart battery management system.
 This project implements a DQN-based energy management algorithm
 to optimize battery charging behavior using real-time sensor data.
 
-## Features
+#### Features
 - Real-time battery monitoring
 - Reinforcement learning based charging decision
 - Raspberry Pi based control system
 - Visualization and training logs
 
-## Hardware
+#### Hardware
 - Raspberry Pi
 - Li-ion battery
 - Current / voltage sensors
 
-## Software
+#### Software
 - Python
 - Deep Q Network (DQN)
-
-## Project Structure
