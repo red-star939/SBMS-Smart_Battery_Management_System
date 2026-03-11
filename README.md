@@ -13,8 +13,9 @@ to optimize battery charging behavior using real-time sensor data.
 #### Hardware
 - Raspberry Pi
 - Li-ion battery
-- Current / voltage sensors
+- Current/voltage sensors, relay module etc.
 
 #### Software
 - Python
+- RealVNC
 - Deep Q Network (DQN)
